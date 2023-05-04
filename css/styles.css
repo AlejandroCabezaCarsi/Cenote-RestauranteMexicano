@@ -1,0 +1,17 @@
+body {
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+
+}
+
+.colorFondoNav {
+    background-color: red;
+}
+
+.fotos{ 
+    height: 14em;
+}
+
+.ancho {
+    width: 14em;
+}
