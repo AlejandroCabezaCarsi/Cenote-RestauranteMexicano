@@ -5,6 +5,10 @@ body {
 
 }
 
+*{ 
+ user-select: none;
+}
+
 
 .colorFondoNav {
     background-color: rgba(128, 128, 128, 0.613);
@@ -18,6 +22,8 @@ body {
     width: 14em;
 }
 
-.nombreCenote { 
-
+.nav:hover { 
+    transform: scale(1.1);
+    transition: 1s;
+   
 }
