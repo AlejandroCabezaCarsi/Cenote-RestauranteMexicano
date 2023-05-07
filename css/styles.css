@@ -5,6 +5,7 @@ body {
 
 }
 
+
 .colorFondoNav {
     background-color: red;
 }
@@ -15,5 +16,9 @@ body {
 
 .ancho {
     width: 14em;
+}
+
+.cochinitaPibil{ 
+    height: 40em;
 }
 
